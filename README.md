@@ -3,10 +3,10 @@
 I am a data analyst with hands-on experience in Excel, Power Query, Power BI, and Excel VBA. I specialize in transforming raw datasets into  a clear and sustainable  insights that support decision-making across sectors like energy, healthcare, retail, and financial services.
 
  🔧 Tools & Skills
-- Data Analysis & Reporting:** Excel, Power Query, PivotTables, Dashboards
+- Data Analysis and  Reporting: Excel, Power Query, PivotTables, Dashboards
 - Automation: Excel VBA, UserForms, Workflow Automation
 - Visualization: Power BI
-- Statistical Analysis:** R (Regression, Hypothesis Testing), SAS
+- Statistical Analysis: R (Regression, Hypothesis Testing), SAS
 - Other: Data Cleaning, Business Intelligence, Data Governance
 
  📊 Featured Projects
