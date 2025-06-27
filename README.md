@@ -17,5 +17,5 @@ I am a data analyst with hands-on experience in Excel, Power Query, Power BI, an
 - [MBE Italy Revenue Analysis](https://github.com/luckyimf/mbe-italy-revenue-analysis)
 
  📫 Let’s Connect
-- [LinkedIn Profile](https://www.linkedin.com/in/lucky-i-a94614999/)
+- [LinkedIn Profile]www.linkedin.com/in/lucky-i-a9461499
 - 📧 Email: luckyimf@yahoo.com
